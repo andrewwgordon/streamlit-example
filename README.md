@@ -1,1 +1,2 @@
-# streamlit-example
+# Streamlit Example
+Example Streamlit application.
